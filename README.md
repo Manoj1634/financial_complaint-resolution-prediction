@@ -1,4 +1,4 @@
-# 🧠 Consumer Complaint Classification & Summarization
+# Consumer Complaint Classification & Summarization
 
 ## 📅 Dataset Overview
 
